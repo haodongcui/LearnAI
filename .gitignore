@@ -1,7 +1,14 @@
-# data/
-datasets/
-# */**/data/
-*/**/datasets/
 
-.idea
+
+# data files
+datasets/
+*/**/datasets/
+*/**/data/
+
+
+# test folder
+test/
+
+
+# cache files
 __pycache__
